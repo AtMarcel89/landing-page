@@ -1,0 +1,25 @@
+body{
+
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #1F2937;
+    color: #FFFFFF;
+    align-items: center;
+
+}
+.logo{
+    font-size: 24px;
+}
+ul{
+    display:flex;
+    font-size: 18px;
+    list-style: none;
+    gap:20px;
+}
+html{
+
+}
